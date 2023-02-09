@@ -1,7 +1,7 @@
 {
   "name": "miaoting_app",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "author": "",
   "dependencies": {
-    "miaoting_plus": "^0.0.1",
-    "miaoting_sub": "^0.0.1",
+    "miaoting_plus": "^0.0.2",
+    "miaoting_sub": "^0.0.2",
     "moment": "^2.24.0"
   },
   "license": "ISC"
