@@ -11,5 +11,8 @@
     "bignumber.js": "^9.0.1"
   },
   "license": "MIT",
-  "gitHead": "29fc4b0044900506a35ea7312de9235aea73d82c"
+  "gitHead": "29fc4b0044900506a35ea7312de9235aea73d82c",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }

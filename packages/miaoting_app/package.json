@@ -14,5 +14,8 @@
     "miaoting_sub": "^0.0.2",
     "moment": "^2.24.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
