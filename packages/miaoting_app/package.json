@@ -1,7 +1,7 @@
 {
   "name": "miaoting_app",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "author": "",
   "dependencies": {
-    "@mt/dev": "^0.0.1",
+    "@mt/dev": "^0.0.2",
     "miaoting_plus": "^0.0.3",
     "miaoting_sub": "^0.0.2",
     "moment": "^2.24.0"
