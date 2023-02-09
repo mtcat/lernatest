@@ -10,5 +10,6 @@
   "dependencies": {
     "immer": "^9.0.14"
   },
-  "license": "ISC"
+  "license": "MIT",
+  "gitHead": "29fc4b0044900506a35ea7312de9235aea73d82c"
 }
